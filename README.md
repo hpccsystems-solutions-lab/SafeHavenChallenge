@@ -105,7 +105,7 @@ Judges will consider the following criteria during your final presentation:
 - Direct emails and direct messages to judges asking for support will be **ignored** and it won't work in team's favor
 - We also encourage students to leverage our community forum and/or StackOverflow for ECL coding related questions. Please make sure to tag your questions with **hpcc-ecl**.
 
-## General Instructions and Judging criteria:
+## General Instructions and Judging Criteria (Important!):
 
 - Please follow all the guidelines specified by the HPCC Team.
 
