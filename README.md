@@ -139,17 +139,17 @@ Judges will consider the following criteria during your final presentation:
 
 <div>
 <img src="./Images/Hugo.jpg" alt="Hugo Watanuki" width="100" />
-<p><a href = "mailto: hugo.watanuki@lexisnexisrisk.com">Hugo Watanuki</a> is responsible for the HPCC Systems Summer Internship Program. He will be available online in our slack channel to help you with ECL questions and resources you might need during this event.</p>
+<p><a href = "mailto: hugo.watanuki@lexisnexisrisk.com">Hugo Watanuki</a> is responsible for the HPCC Systems Summer Internship Program. He will be available online via our Teams channel to help you with ECL questions and resources you might need during this event.</p>
 </div>
 
 <div>
 <img src="./Images/MauroDM.jpg" alt="Mauro Marques" width="100" />
-<p><a href = "mailto: mauro.marques@lexisnexisrisk.com">Mauro Marques</a> is a Senior Technical Support Engineer at LexisNexis Risk Solutions, and supports the development and delivery of training programs for the HPCC Systems platform in the Brazil region. He will also be available online in our slack channel to help you with ECL questions and resources you might need during this event.</p>
+<p><a href = "mailto: mauro.marques@lexisnexisrisk.com">Mauro Marques</a> is a Senior Technical Support Engineer at LexisNexis Risk Solutions, and supports the development and delivery of training programs for the HPCC Systems platform in the Brazil region. He will also be available online via our Teams channel to help you with ECL questions and resources you might need during this event.</p>
 </div>
 
 <div>
 <img src="./Images/Alysson.png" alt="Alysson Oliveira" width="100" />
-<p><a href = "mailto: alysson.oliveira@lexisnexisrisk.com">Alysson Oliveira</a> is a Software Engineer at LexisNexis Risk Solutions. His main role revolves around support and development of training programs for HPCC Systems in Brazil , covering the academic audience, computing and data professionals and researchers. He also works to establish partnerships with universities to offer undergraduate students the opportunity to work on scientific projects. He will also be available online in our slack channel to help you with ECL questions and resources you might need during this event.</p>
+<p><a href = "mailto: alysson.oliveira@lexisnexisrisk.com">Alysson Oliveira</a> is a Software Engineer at LexisNexis Risk Solutions. His main role revolves around support and development of training programs for HPCC Systems in Brazil , covering the academic audience, computing and data professionals and researchers. He also works to establish partnerships with universities to offer undergraduate students the opportunity to work on scientific projects. He will also be available online via our Teams channel to help you with ECL questions and resources you might need during this event.</p>
 </div>
 <div></div>
 </div>
