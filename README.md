@@ -61,7 +61,7 @@ PDFs in the Docs folder of this repository can be found to guide you through the
 Download QuickStart.mod located in this repository's root folder. This file has the initial code you need for this challenge. 
 The import process will be discussed at the Workshops, but in both IDEs simply open the MOD file and follow the prompts. CTRL+O in the ECL IDE, and the F1 key in VS-Code will pop up the command dialog, and look for the "ECL: Import 'mod' file" command. 
 
-If you need more information on the ECL jobs you are running please use [ECL Watch Page](http://training.us-hpccsystems-dev.azure.lnrsg.io:8010/)
+If you need more information on the ECL jobs you are running please use [ECL Watch Page](http://http://challenge.us-hpccsystems-dev.azure.lnrsg.io:8010)
 
 **Note: This cluster will only be active during the event!** After the event, you can create your own localized container cluster, or visit our public "Play" Cluster: (https://play.hpccsystems.com:18010) 
 
@@ -104,6 +104,25 @@ Judges will consider the following criteria during your final presentation:
 - We encourage team play so teams that help answer questions in the public forums will be considered favorably in judging.
 - Direct emails and direct messages to judges asking for support will be **ignored** and it won't work in team's favor
 - We also encourage students to leverage our community forum and/or StackOverflow for ECL coding related questions. Please make sure to tag your questions with **hpcc-ecl**.
+
+##General Instructions and Judging criteria:
+
+- Please follow all the guidelines specified by the HPCC Team.
+
+- Provide a brief design/tech document describing the proposed solution (2-3 pages max).
+
+- Provide a brief bio of all participants and their roles on the project.
+
+- Use the HPCC Systems platform for executing the solution.
+
+- Innovation involved
+
+- Understanding of Big Data patterns and its application to HPCC Systems.
+
+- Team work and execution
+
+- Presentation quality
+
 
 ## Mentors
 
