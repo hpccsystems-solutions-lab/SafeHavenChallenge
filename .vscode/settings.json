@@ -1,4 +1,5 @@
 {
     "ecl.launchConfiguration": "ChallengeCluster",
-    "ecl.targetCluster": {}
+    "ecl.targetCluster": {},
+    "ecl.eclccPath": "C:\\Program Files\\HPCCSystems\\9.4.28\\clienttools\\bin\\eclcc.exe"
 }
