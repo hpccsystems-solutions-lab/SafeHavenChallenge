@@ -61,7 +61,7 @@ PDFs in the Docs folder of this repository can be found to guide you through the
 Download QuickStart.mod located in this repository's root folder. This file has the initial code you need for this challenge. 
 The import process will be discussed at the Workshops, but in both IDEs simply open the MOD file and follow the prompts. CTRL+O in the ECL IDE, and the F1 key in VS-Code will pop up the command dialog, and look for the "ECL: Import 'mod' file" command. 
 
-If you need more information on the ECL jobs you are running please use [ECL Watch Page](http://http://challenge.us-hpccsystems-dev.azure.lnrsg.io:8010)
+If you need more information on the ECL jobs you are running please use [ECL Watch Page](http://challenge.us-hpccsystems-dev.azure.lnrsg.io:8010)
 
 **Note: This cluster will only be active during the event!** After the event, you can create your own localized container cluster, or visit our public "Play" Cluster: (https://play.hpccsystems.com:18010) 
 
@@ -105,23 +105,23 @@ Judges will consider the following criteria during your final presentation:
 - Direct emails and direct messages to judges asking for support will be **ignored** and it won't work in team's favor
 - We also encourage students to leverage our community forum and/or StackOverflow for ECL coding related questions. Please make sure to tag your questions with **hpcc-ecl**.
 
-## General Instructions and Judging Criteria (Important!):
+## General Instructions for Submitting Results and Judging Criteria (Important!):
 
 - Please follow all the guidelines specified by the HPCC Team.
 
-- Provide a brief design/tech document describing the proposed solution (2-3 pages max).
+- Provide a brief design/tech document describing the proposed solution (2-3 pages max). This can be a Powerpoint, Word Document or even a video (5 minute limit please). Submit your results <a href = "mailto: hackathons@hpccsystems.com">here</a>.(make sure to include the workunit(s) names of your ECL work) 
 
 - Provide a brief bio of all participants and their roles on the project.
 
 - Use the HPCC Systems platform for executing the solution.
 
-- Innovation involved
+- Extra points for innovation in analyzing the data.
 
-- Understanding of Big Data patterns and its application to HPCC Systems.
+- Extra points for understanding Big Data patterns and its application to HPCC Systems.
 
-- Team work and execution
+- Extra points for team work and execution.
 
-- Presentation quality
+- Extra points for presentation quality.
 
 
 ## Mentors
